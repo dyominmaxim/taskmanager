@@ -1,0 +1,11 @@
+C:\Users\sor\Desktop\TaskManager\TaskManager.Core\bin\Debug\net10.0\TaskManager.Core.deps.json
+C:\Users\sor\Desktop\TaskManager\TaskManager.Core\bin\Debug\net10.0\TaskManager.Core.dll
+C:\Users\sor\Desktop\TaskManager\TaskManager.Core\bin\Debug\net10.0\TaskManager.Core.pdb
+C:\Users\sor\Desktop\TaskManager\TaskManager.Core\obj\Debug\net10.0\TaskManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sor\Desktop\TaskManager\TaskManager.Core\obj\Debug\net10.0\TaskManager.Core.AssemblyInfoInputs.cache
+C:\Users\sor\Desktop\TaskManager\TaskManager.Core\obj\Debug\net10.0\TaskManager.Core.AssemblyInfo.cs
+C:\Users\sor\Desktop\TaskManager\TaskManager.Core\obj\Debug\net10.0\TaskManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\sor\Desktop\TaskManager\TaskManager.Core\obj\Debug\net10.0\TaskManager.Core.dll
+C:\Users\sor\Desktop\TaskManager\TaskManager.Core\obj\Debug\net10.0\refint\TaskManager.Core.dll
+C:\Users\sor\Desktop\TaskManager\TaskManager.Core\obj\Debug\net10.0\TaskManager.Core.pdb
+C:\Users\sor\Desktop\TaskManager\TaskManager.Core\obj\Debug\net10.0\ref\TaskManager.Core.dll
